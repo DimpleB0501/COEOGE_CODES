@@ -8,4 +8,6 @@
 ### YOLO V8 folder 
 [inference.py](https://github.com/DimpleB0501/COEOGE_CODES/blob/main/YOLOV8/inference.py) - Contains the inference code that we will use for real-time classification<br/>
 [yolov8_training.py](https://github.com/DimpleB0501/COEOGE_CODES/blob/main/YOLOV8/yolov8_training.py) -  is the training code <br/>
-[]()
+
+# Scripts to know the processing time of single image
+[Evaluation script](yolo_eval.ipynb)
